@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.al4n4n.com/2026/02/07/CVE-2026-25253-OpenClaw-One-Click-RCE-Analysis/</loc>
+    <loc>https://al4n4n.github.io/2026/02/07/CVE-2026-25253-OpenClaw-One-Click-RCE-Analysis/</loc>
     
     <lastmod>2026-02-08</lastmod>
     
@@ -12,7 +12,7 @@
   
 
   <url>
-    <loc>https://blog.al4n4n.com/</loc>
+    <loc>https://al4n4n.github.io/</loc>
     <lastmod>2026-02-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -20,7 +20,7 @@
 
   
   <url>
-    <loc>https://blog.al4n4n.com/tags/Vulnerability-Analysis/</loc>
+    <loc>https://al4n4n.github.io/tags/Vulnerability-Analysis/</loc>
     <lastmod>2026-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
