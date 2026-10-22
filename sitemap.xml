@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.al4n4n.com/2026/02/07/CVE-2026-25253-OpenClaw-One-Click-RCE-Analysis/</loc>
-    
-    <lastmod>2026-10-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.al4n4n.com/2026/10/21/CVE-2026-109618-CVE-2026-109619-PHP-UAF-zend-bailout/</loc>
     
     <lastmod>2026-10-21</lastmod>
@@ -19,10 +10,28 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://blog.al4n4n.com/about/</loc>
+    
+    <lastmod>2026-10-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.al4n4n.com/2026/02/07/CVE-2026-25253-OpenClaw-One-Click-RCE-Analysis/</loc>
+    
+    <lastmod>2026-02-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://blog.al4n4n.com/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,28 +39,49 @@
   
   <url>
     <loc>https://blog.al4n4n.com/tags/Vulnerability-Analysis/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.al4n4n.com/tags/PHP/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <loc>https://blog.al4n4n.com/tags/OpenClaw/</loc>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.al4n4n.com/tags/Use-After-Free/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <loc>https://blog.al4n4n.com/tags/WebSocket/</loc>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.al4n4n.com/tags/CVE/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.al4n4n.com/tags/PHP/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.al4n4n.com/tags/PHP2Shell/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.al4n4n.com/tags/Use-After-Free/</loc>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
