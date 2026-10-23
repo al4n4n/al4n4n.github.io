@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.al4n4n.com/2026/10/23/CVE-2026-112403-Pillow-Heap-Buffer-Overflow-JPEG-Decoder/</loc>
+    
+    <lastmod>2026-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.al4n4n.com/2026/10/23/CVE-2026-110264-GitLab-Onigmo-Regex-Integer-Overflow/</loc>
     
     <lastmod>2026-10-23</lastmod>
