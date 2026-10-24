@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.al4n4n.com/2026/10/24/ZDI-CAN-33774-ksmbd-Protocol-Dispatch-Race-Condition/</loc>
+    
+    <lastmod>2026-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.al4n4n.com/2026/10/24/ZDI-CAN-33549-ksmbd-SMB-Direct-Integer-Underflow/</loc>
     
     <lastmod>2026-10-25</lastmod>
