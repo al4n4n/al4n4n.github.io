@@ -1,4 +1,5 @@
 https://blog.al4n4n.com/2026/10/24/ZDI-CAN-33774-ksmbd-Protocol-Dispatch-Race-Condition/
+https://blog.al4n4n.com/2026/10/24/CVE-2026-115560-PHP-Session-Upload-Progress-RCE/
 https://blog.al4n4n.com/2026/10/24/ZDI-CAN-33549-ksmbd-SMB-Direct-Integer-Underflow/
 https://blog.al4n4n.com/2026/10/23/CVE-2026-112403-Pillow-Heap-Buffer-Overflow-JPEG-Decoder/
 https://blog.al4n4n.com/2026/10/23/CVE-2026-110264-GitLab-Onigmo-Regex-Integer-Overflow/
