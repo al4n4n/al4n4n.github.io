@@ -1,3 +1,4 @@
+https://blog.al4n4n.com/2026/10/27/CVE-2026-102785-YOOtheme-Pro-Image-Handler-RCE/
 https://blog.al4n4n.com/2026/10/24/ZDI-CAN-33774-ksmbd-Protocol-Dispatch-Race-Condition/
 https://blog.al4n4n.com/2026/10/24/CVE-2026-115560-PHP-Session-Upload-Progress-RCE/
 https://blog.al4n4n.com/2026/10/24/ZDI-CAN-33549-ksmbd-SMB-Direct-Integer-Underflow/
