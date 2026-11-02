@@ -143,12 +143,12 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">8</span>
+          <span class="site-state-item-count">9</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
       <div class="site-state-item site-state-tags">
-        <span class="site-state-item-count">47</span>
+        <span class="site-state-item-count">52</span>
         <span class="site-state-item-name">tags</span>
       </div>
   </nav>
@@ -173,6 +173,82 @@
     </div>
 
     <div class="main-inner index posts-expand">
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://blog.al4n4n.com/CVE-2026-98432-Linux-Kernel-TCP-Race-UAF/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/logo.png">
+      <meta itemprop="name" content="Al4n "Dadb0d" 4n">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Al4n4n's Blog">
+      <meta itemprop="description" content="Passionate security researcher; AI enthusiast; with a dadbod">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content=" | Al4n4n's Blog">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/CVE-2026-98432-Linux-Kernel-TCP-Race-UAF/" class="post-title-link" itemprop="url">CVE-2026-98432: Two Lines of Diff, Nine Years of Remote Kernel Code Execution</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2026-11-01 16:00:00" itemprop="dateCreated datePublished" datetime="2026-11-01T16:00:00-08:00">2026-11-01</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>CVE-2026-98432: a race condition in the Linux kernel's TCP/IPv4 stack turns a 2-line kfree vs kfree_rcu mistake into remote pre-auth kernel code execution. Affects every Linux kernel from 4.4 to present. CVSS 9.8. The attacker sends a SYN with IP options, completes the handshake, destroys the socket, and retransmits. Lost races cost nothing. I wrote a PoC, detection rules, and traced the full exploitation chain.</p>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/CVE-2026-98432-Linux-Kernel-TCP-Race-UAF/">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
 
     
 
