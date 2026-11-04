@@ -143,12 +143,16 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">12</span>
+          <span class="site-state-item-count">13</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
+      <div class="site-state-item site-state-categories">
+        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-name">categories</span>
+      </div>
       <div class="site-state-item site-state-tags">
-        <span class="site-state-item-count">74</span>
+        <span class="site-state-item-count">80</span>
         <span class="site-state-item-name">tags</span>
       </div>
   </nav>
@@ -380,6 +384,91 @@
           <!--noindex-->
             <div class="post-button">
               <a class="btn" href="/CVE-2026-58115-Siemens-IoT2050-Node-RED-Unauthenticated-Root-RCE/">
+                Read more &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://blog.al4n4n.com/CVE-2026-118306-Chromium-FileSystem-UAF-Synchronous-Lock-Promotion/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/logo.png">
+      <meta itemprop="name" content="Al4n "Dadb0d" 4n">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Al4n4n's Blog">
+      <meta itemprop="description" content="Passionate security researcher; AI enthusiast; with a dadbod">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content=" | Al4n4n's Blog">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/CVE-2026-118306-Chromium-FileSystem-UAF-Synchronous-Lock-Promotion/" class="post-title-link" itemprop="url">CVE-2026-118306: The Chromium UAF That Hides Behind BFCache</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2026-11-04 00:00:00" itemprop="dateCreated datePublished" datetime="2026-11-04T00:00:00-08:00">2026-11-04</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/Vulnerability-Analysis/" itemprop="url" rel="index"><span itemprop="name">Vulnerability Analysis</span></a>
+        </span>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <p>Deep-dive into CVE-2026-118306, a CVSS 9.6 use-after-free in Chromium's FileSystemAccessManagerImpl. How C++ destruction order and synchronous lock promotion create a browser-process memory corruption, and why real-world exploitation requires a BFCache bypass that doesn't exist.</p>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/CVE-2026-118306-Chromium-FileSystem-UAF-Synchronous-Lock-Promotion/">
                 Read more &raquo;
               </a>
             </div>
@@ -836,82 +925,6 @@
           <!--noindex-->
             <div class="post-button">
               <a class="btn" href="/CVE-2026-112403-Pillow-Heap-Buffer-Overflow-JPEG-Decoder/">
-                Read more &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://blog.al4n4n.com/CVE-2026-110264-GitLab-Onigmo-Regex-Integer-Overflow/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/logo.png">
-      <meta itemprop="name" content="Al4n "Dadb0d" 4n">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Al4n4n's Blog">
-      <meta itemprop="description" content="Passionate security researcher; AI enthusiast; with a dadbod">
-    </span>
-
-    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content=" | Al4n4n's Blog">
-      <meta itemprop="description" content="">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/CVE-2026-110264-GitLab-Onigmo-Regex-Integer-Overflow/" class="post-title-link" itemprop="url">CVE-2026-110264: From Onigmo's 16-bit Regex Counter to Pre-Auth SIGSEGV in GitLab via org-ruby</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2026-10-23 00:00:00" itemprop="dateCreated datePublished" datetime="2026-10-23T00:00:00-07:00">2026-10-23</time>
-    </span>
-
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <p>Full root cause: Onigmo's signed-short repeat counter overflows at 32,768. org-ruby headline.rb feeds raw user input to Regexp.new, reachable pre-auth via GitLab's .org file viewer.</p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/CVE-2026-110264-GitLab-Onigmo-Regex-Integer-Overflow/">
                 Read more &raquo;
               </a>
             </div>

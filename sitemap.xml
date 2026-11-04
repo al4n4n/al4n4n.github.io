@@ -29,6 +29,15 @@
   </url>
   
   <url>
+    <loc>https://blog.al4n4n.com/CVE-2026-118306-Chromium-FileSystem-UAF-Synchronous-Lock-Promotion/</loc>
+    
+    <lastmod>2026-11-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.al4n4n.com/CVE-2026-98432-Linux-Kernel-TCP-Race-UAF/</loc>
     
     <lastmod>2026-11-02</lastmod>
