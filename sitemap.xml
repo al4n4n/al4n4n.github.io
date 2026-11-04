@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.al4n4n.com/btcpay-greenfield-2fa-bypass/</loc>
+    
+    <lastmod>2026-11-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.al4n4n.com/CVE-2026-110186-Langflow-Code-Injection-pydoc-Scanner-Bypass/</loc>
     
     <lastmod>2026-11-04</lastmod>

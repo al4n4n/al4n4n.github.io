@@ -1,3 +1,4 @@
+https://blog.al4n4n.com/btcpay-greenfield-2fa-bypass/
 https://blog.al4n4n.com/CVE-2026-110186-Langflow-Code-Injection-pydoc-Scanner-Bypass/
 https://blog.al4n4n.com/CVE-2026-58115-Siemens-IoT2050-Node-RED-Unauthenticated-Root-RCE/
 https://blog.al4n4n.com/CVE-2026-98432-Linux-Kernel-TCP-Race-UAF/
