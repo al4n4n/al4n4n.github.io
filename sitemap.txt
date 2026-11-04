@@ -1,3 +1,4 @@
+https://blog.al4n4n.com/CVE-2026-58115-Siemens-IoT2050-Node-RED-Unauthenticated-Root-RCE/
 https://blog.al4n4n.com/CVE-2026-98432-Linux-Kernel-TCP-Race-UAF/
 https://blog.al4n4n.com/CVE-2026-102785-YOOtheme-Pro-Image-Handler-RCE/
 https://blog.al4n4n.com/ZDI-CAN-33774-ksmbd-Protocol-Dispatch-Race-Condition/
