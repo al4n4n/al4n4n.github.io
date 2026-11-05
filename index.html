@@ -465,7 +465,7 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <p>Deep-dive into CVE-2026-118306, a CVSS 9.6 use-after-free in Chromium's FileSystemAccessManagerImpl. How C++ destruction order and synchronous lock promotion create a browser-process memory corruption, and why real-world exploitation requires a BFCache bypass that doesn't exist.</p>
+          <p>Deep-dive into CVE-2026-118306, a CVSS 9.6 use-after-free in Chromium's FileSystemAccessManagerImpl. How C++ destruction order, a Mojo race condition, and BFCache eviction create a browser-process memory corruption exploitable from a single web page in incognito mode.</p>
           <!--noindex-->
             <div class="post-button">
               <a class="btn" href="/CVE-2026-118306-Chromium-FileSystem-UAF-Synchronous-Lock-Promotion/">
