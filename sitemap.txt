@@ -1,3 +1,4 @@
+https://blog.al4n4n.com/CVE-2026-116779-FreeSWITCH-SIP-MESSAGE-Command-Execution/
 https://blog.al4n4n.com/CVE-2026-125350-Chrome-libxslt-UAF-Pattern-Cache-Reentrancy/
 https://blog.al4n4n.com/btcpay-greenfield-2fa-bypass/
 https://blog.al4n4n.com/CVE-2026-110186-Langflow-Code-Injection-pydoc-Scanner-Bypass/
