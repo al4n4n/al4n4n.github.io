@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.al4n4n.com/CVE-2026-123874-Node-HTTP2-Use-After-Free/</loc>
+    
+    <lastmod>2026-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.al4n4n.com/CVE-2026-128067-Pillow-libtiff-Heap-Buffer-Overflow/</loc>
+    
+    <lastmod>2026-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.al4n4n.com/CVE-2026-116779-FreeSWITCH-SIP-MESSAGE-Command-Execution/</loc>
     
     <lastmod>2026-11-14</lastmod>
@@ -148,7 +166,7 @@
 
   <url>
     <loc>https://blog.al4n4n.com/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

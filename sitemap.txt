@@ -1,3 +1,5 @@
+https://blog.al4n4n.com/CVE-2026-123874-Node-HTTP2-Use-After-Free/
+https://blog.al4n4n.com/CVE-2026-128067-Pillow-libtiff-Heap-Buffer-Overflow/
 https://blog.al4n4n.com/CVE-2026-116779-FreeSWITCH-SIP-MESSAGE-Command-Execution/
 https://blog.al4n4n.com/CVE-2026-125350-Chrome-libxslt-UAF-Pattern-Cache-Reentrancy/
 https://blog.al4n4n.com/btcpay-greenfield-2fa-bypass/
