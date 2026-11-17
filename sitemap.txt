@@ -1,3 +1,4 @@
+https://blog.al4n4n.com/CVE-2026-104007-LibreOffice-JDBC-Pivot-Table-RCE/
 https://blog.al4n4n.com/CVE-2026-123874-Node-HTTP2-Use-After-Free/
 https://blog.al4n4n.com/CVE-2026-128067-Pillow-libtiff-Heap-Buffer-Overflow/
 https://blog.al4n4n.com/CVE-2026-116779-FreeSWITCH-SIP-MESSAGE-Command-Execution/
