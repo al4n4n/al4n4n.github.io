@@ -1,3 +1,4 @@
+https://blog.al4n4n.com/CVE-2026-114938-Java4Shell-AVX512-Base64-Heap-Overflow/
 https://blog.al4n4n.com/CVE-2026-104007-LibreOffice-JDBC-Pivot-Table-RCE/
 https://blog.al4n4n.com/CVE-2026-123874-Node-HTTP2-Use-After-Free/
 https://blog.al4n4n.com/CVE-2026-128067-Pillow-libtiff-Heap-Buffer-Overflow/
