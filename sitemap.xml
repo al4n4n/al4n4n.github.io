@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.al4n4n.com/CVE-2026-132825-Ruby-Case-Conversion-Heap-Buffer-Overflow/</loc>
+    
+    <lastmod>2026-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.al4n4n.com/CVE-2026-114938-Java4Shell-AVX512-Base64-Heap-Overflow/</loc>
     
     <lastmod>2026-11-18</lastmod>
@@ -11,7 +20,25 @@
   </url>
   
   <url>
+    <loc>https://blog.al4n4n.com/CVE-2026-123007-Nginx-HTTP2-Send-Window-Overflow/</loc>
+    
+    <lastmod>2026-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.al4n4n.com/CVE-2026-104007-LibreOffice-JDBC-Pivot-Table-RCE/</loc>
+    
+    <lastmod>2026-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.al4n4n.com/CVE-2026-104692-LibreOffice-HSQLDB-JDBC-Code-Execution/</loc>
     
     <lastmod>2026-11-16</lastmod>
     
@@ -184,7 +211,7 @@
 
   <url>
     <loc>https://blog.al4n4n.com/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
